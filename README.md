@@ -1,0 +1,1 @@
+# Article.DPAPI.DotNet.AzureServerlessFunctionExample
